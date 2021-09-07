@@ -1,0 +1,3 @@
+The content of this file is written using BufferedWriter class in Java
+Content of this file is read using BufferedReader class in Java
+Congratz!!! You have successfully read the file.
